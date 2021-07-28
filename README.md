@@ -1,4 +1,4 @@
-## ``` Decentralized File Storage. ```
+## ``` Decentralized File System. ```
 
 
 ## 🔧 Project Diagram:
